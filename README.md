@@ -2,8 +2,6 @@
 Namn: Ahmad Sameer Feroz
 Klass: MU 24
 
-Bakgrund
-
 Jag ska göra ett projekt inom energihantering att man ska visa hur man kan samla in och visa data om energiförbrukning. Arbetet hjälper mig att träna på de programmeringspråk vi har använt under utbildning som React, Java och Spring Boot.
 
 Syftet är att lära mig mer om hur man utvecklar ett system som hanterar och visar energidata på ett bra sätt.
