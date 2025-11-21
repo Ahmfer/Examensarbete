@@ -2,7 +2,7 @@
 Namn: Ahmad Sameer Feroz
 Klass: MU 24
 
-Jag ska göra ett projekt inom energihantering att man ska visa hur man kan samla in och visa data om energiförbrukning. Arbetet hjälper mig att träna på de programmeringspråk vi har använt under utbildning som React, Java och Spring Boot.
+Jag ska göra ett projekt om energihantering där jag visar hur man kan samla in och visa data om energiförbrukning. Projektet hjälper mig att träna på de programmeringsspråk vi har lärt oss, till exempel React, Java och Spring Boot.
 
 Syftet är att lära mig mer om hur man utvecklar ett system som hanterar och visar energidata på ett bra sätt.
 
@@ -13,7 +13,7 @@ Mål:
 
 Skapa ett “proof of concept” för ett energihanteringssystem.
 
-Visa mätdata (t.ex. energiförbrukning per timme eller dag).
+Visa mätdata (t.ex. energiförbrukning per timme eller dag för användare).
 
 Frontend byggs i React.
 
