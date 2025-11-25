@@ -13,6 +13,12 @@ Mål:
 Skapa ett “proof of concept” för ett energihanteringssystem.
 Visa mätdata (t.ex. energiförbrukning per timme eller dag för användare).
 
+Planering
+Vecka 1–2: Planering och design av systemet.
+Vecka 3–5: Utveckling av frontend (React) och backend (Spring Boot).
+Vecka 6: Testning, förbättringar och rapport.
+Jag använder GitHub för versionshantering och planering.
+
 Tekniker
 Frontend: HTML, CSS, JavaScript, React
 Backend: Java och Spring Boot
